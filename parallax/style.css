@@ -1,0 +1,22 @@
+body {
+  height: 100vh;
+  background: black;
+}
+
+canvas {
+  height: 700px;
+  width: 800px;
+}
+
+.container {
+  font-size: 1.5rem;
+  p {
+    color: white;
+    text-align: center;
+  }
+  .slider {
+    width: 100%;
+    cursor: pointer;
+    color: blue;
+  }
+}
